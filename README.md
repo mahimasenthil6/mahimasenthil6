@@ -25,8 +25,8 @@ I am continuously expanding my knowledge base, actively learning about cutting-e
 
 I am always open to collaborating on innovative projects, sharing insights, or discussing the future of AI. Feel free to reach out!
 
-*   **Email:** [mahimasenthil6@gmail.com](mailto:mahimasenthil6@gmail.com)
-*   **GitHub:** [@mahimasenthil6](https://github.com/mahimasenthil6)
+*   **Email:** [mahimasenthil6@gmail.com]
+*   **GitHub:** [@mahimasenthil6]
 
 ## 💻 Tech Stack
 
